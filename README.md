@@ -37,6 +37,7 @@ Ideas that you must understand to break free from the Matrix:
 | ---------------------------------------------- | ------- | --------- | ---------------------------------------------- |
 | [Interview with Jianzhi Zhang](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30566-2) | 2023-01-01  | interview | 选科学问题，除了个人taste，也是一种能力。 |
 | [Interview with Marie-Anne Félix](https://www.sciencedirect.com/science/article/pii/S096098220800609X)| 2023-01-01  | interview |生物化学的决定性细节和演化生物学的随机性解释框架。 |
+| [毅力號#17: 火星能源系统\|核能 vs 太阳能\|毅力號vs天问一號](https://www.youtube.com/watch?v=3Y3mCZjMM8w&ab_channel=DiscoveryWithAndy) | 2023-02-03 | video | 放射性同位素 | 
 
 
 
