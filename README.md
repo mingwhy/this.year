@@ -36,6 +36,6 @@ Ideas that you must understand to break free from the Matrix:
 ### 甲基化
 - [学一学DNA甲基化芯片分析流程](https://www.jieandze1314.com/post/cnposts/227/)
 - [一个甲基化芯片信号值矩阵差异分析的标准代码](https://github.com/jmzeng1314/methy_array)
-- [A cross-package Bioconductor workflow for analysing methylation array data](http://bioconductor.org/packages/release/workflows/vignettes/methylationArrayAnalysis/inst/doc/methylationArrayAnalysis.html)
+- [A cross-package Bioconductor workflow for analysing methylation array data](http://bioconductor.org/packages/release/workflows/vignettes/methylationArrayAnalysis/inst/doc/methylationArrayAnalysis.html) and [F1000 manuscript](https://pubmed.ncbi.nlm.nih.gov/27347385/)
 - [解读GEO数据存放规律及下载](https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247486063&idx=1&sn=156bee5397e979722b36b78284188538&scene=21#wechat_redirect) 
 
