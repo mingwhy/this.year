@@ -41,3 +41,4 @@ Ideas that you must understand to break free from the Matrix:
 
 ### 甲基化时钟
 - [R codes for preprocessing Illumina Infinium DNA Methylation array data (from IDAT files) and epigenetic clocks](https://github.com/wt2015-github/Methylation-array) 
+- [Chronological and gestational DNAm age estimation using different methylation-based clocks](https://rpubs.com/jrgonzalezISGlobal/methylclock)
