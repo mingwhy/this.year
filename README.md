@@ -25,3 +25,10 @@ Ideas that you must understand to break free from the Matrix:
 | [热力学怎样理解生命 by Sean Carroll](https://www.thepaper.cn/newsDetail_forward_13950476) | 2023-02-10 | 科普 | 热力学 | 
 
 
+## 资料整理
+### 甲基化
+- [学一学DNA甲基化芯片分析流程](https://www.jieandze1314.com/post/cnposts/227/)
+- [一个甲基化芯片信号值矩阵差异分析的标准代码](https://github.com/jmzeng1314/methy_array)
+
+
+
