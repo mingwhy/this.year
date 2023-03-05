@@ -39,3 +39,5 @@ Ideas that you must understand to break free from the Matrix:
 - [A cross-package Bioconductor workflow for analysing methylation array data](http://bioconductor.org/packages/release/workflows/vignettes/methylationArrayAnalysis/inst/doc/methylationArrayAnalysis.html) and [F1000 manuscript](https://pubmed.ncbi.nlm.nih.gov/27347385/)
 - [解读GEO数据存放规律及下载](https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247486063&idx=1&sn=156bee5397e979722b36b78284188538&scene=21#wechat_redirect) 
 
+### 甲基化时钟
+- [R codes for preprocessing Illumina Infinium DNA Methylation array data (from IDAT files) and epigenetic clocks](https://github.com/wt2015-github/Methylation-array) 
