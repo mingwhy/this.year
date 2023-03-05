@@ -24,7 +24,7 @@ Ideas that you must understand to break free from the Matrix:
 | [“斜杠天才”盖尔曼的夸克模型是如何诞生的？](http://zhishifenzi.com/news/other/10895.html) | 2023-02-10 | 科普 | 粒子物理|
 | [热力学怎样理解生命 by Sean Carroll](https://www.thepaper.cn/newsDetail_forward_13950476) | 2023-02-10 | 科普 | 热力学 | 
 
-## 个人喜好的up主
+## follow的up主
 - [眼见为识](https://space.bilibili.com/430948380/) 科普，物理
 - [Linvo说宇宙](https://space.bilibili.com/357515451?spm_id_from=333.337.0.0) 宇宙，物理，科普
 - [Discovery With Andy](https://www.youtube.com/@discoverywithandy3049) 科普，天文，宇宙
