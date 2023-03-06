@@ -32,6 +32,12 @@ Ideas that you must understand to break free from the Matrix:
 - [青蛙刀圣_1993](https://space.bilibili.com/17588331?spm_id_from=333.337.search-card.all.click) 影视解说，历史，宗教，文化
 - [PBS Space Time](https://www.youtube.com/@pbsspacetime) 科普，物理，英文
 
+## Doctor who 喜欢的单集
+- Doctor Who - S2 E4 - The Girl in the Fireplace 壁炉女孩
+- Doctor Who - S3 E10 - Blink 眨眼 （内有哭泣的天使）
+- Doctor Who - S4 E07 - The Unicorn and the Wasp 独角兽和黄蜂
+- Doctor Who - S4 E10 - Midnight 半夜
+
 ## 资料整理
 ### 甲基化
 - [学一学DNA甲基化芯片分析流程](https://www.jieandze1314.com/post/cnposts/227/)
